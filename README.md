@@ -16,3 +16,5 @@ Vinicius Moreira Tamburu - 10401551
     <img src="https://github.com/user-attachments/assets/c2f10f16-74e8-4476-bdda-1a68adb30cd0" alt="image">
 </div>
 
+
+Figma: https://www.figma.com/proto/zxMHrknLvvBtNsisbzZgbQ/TERRAWISE?node-id=18-3&starting-point-node-id=18%3A3&t=3CrQPanJVkDibKJY-1
